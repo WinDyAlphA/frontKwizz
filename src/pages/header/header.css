@@ -1,0 +1,16 @@
+ul {
+    list-style: none;
+    cursor: pointer;
+}
+.headerWrapper{
+    background-color: aquamarine;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+
+}
+.headerWrapper ul li {
+    margin-top: 20px;
+}
